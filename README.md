@@ -1,1 +1,1 @@
-Simple class for NOAA footer GTS messages.
+Simple class for GTS messages.  Does case checking for NOAA vs non-NOAA messages.
